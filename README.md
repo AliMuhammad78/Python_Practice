@@ -36,7 +36,7 @@ Each folder focuses on a specific Python concept and contains practice programs 
 
 ## Technologies Used
 
-- Python 3.x
+- Python 3.14
 - Visual Studio Code
 
 ---
