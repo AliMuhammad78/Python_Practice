@@ -1,0 +1,1 @@
+from originalcode import myFunction
